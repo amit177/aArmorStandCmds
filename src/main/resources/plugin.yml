@@ -1,0 +1,8 @@
+name: aArmorStandCmds
+author: amit177
+version: 1.0
+description: A plugin that allows setting commands on ArmorStands
+main: systems.amit.spigot.aarmorstandcmds.aArmorStandCmds
+commands:
+  aarmorstand:
+    aliases: [armorstand,astand]
